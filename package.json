@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/staten-island-tech/back-end-hw-2-express-crash-course-cmurja#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "uuid": "^3.3.3"
   },
   "devDependencies": {
